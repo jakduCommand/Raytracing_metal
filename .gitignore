@@ -1,0 +1,62 @@
+# ================================
+# macOS
+# ================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ================================
+# Xcode
+# ================================
+build/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# ================================
+# User Settings
+# ================================
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# ================================
+# Logs
+# ================================
+*.log
+
+# ================================
+# Fastlane (if you ever use it)
+# ================================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# ================================
+# Metal
+# ================================
+*.air
+*.metallib
+
+# ================================
+# Archives
+# ================================
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ================================
+# Environment / Secrets
+# ================================
+.env
+Config.plist
+
